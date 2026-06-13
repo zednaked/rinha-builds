@@ -1,6 +1,6 @@
 # rinha — builds
 
-Builds do protótipo. **Repo privado.**
+Builds do protótipo. **
 
 ## Plataformas
 
