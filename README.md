@@ -1,6 +1,6 @@
 # rinha — builds
 
-Builds do protótipo. **
+Builds do protótipo. Cada versão é marcada com uma tag `vX.Y.Z` (veja os [releases](https://github.com/zednaked/rinha-builds/tags)).
 
 ## Plataformas
 
